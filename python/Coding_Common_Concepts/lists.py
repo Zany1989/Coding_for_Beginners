@@ -11,11 +11,8 @@ print(primes)
 print(len(primes))
 
 men = ["Greg", "Jock", "Charlie"]
-women = ["Danielle", "Myrlie"]
-people = []
-
-people.append(men)
-people.append(women)
+women = ["Danielle", "Myrle"]
+people = [men, women]
 
 print(people)
 print(len(people))
