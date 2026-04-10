@@ -1,5 +1,5 @@
-'''Python counting script
-V1.0'''
+"""Python counting script
+V1.0"""
 
 # Here we use while loop
 
